@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vishnu2701-vishnu
 - 👀 I’m interested in Technology sciences , Coding , AI  
 - 🌱 I’m currently learning  Bachelor in Enginnering Computer Science with Cyber Security 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 Vishnu2701-vishnu/Vishnu2701-vishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
